@@ -1,0 +1,12 @@
+# Persönliche Betreiber- und Datenschutztexte (nur lokale Datei)
+/legal.local.js
+/legal.local.*
+
+# Persönliche Planexporte und Pakete im Projektordner
+/*.zip
+/*.pdf
+/exports/
+
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
